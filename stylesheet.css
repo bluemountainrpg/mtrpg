@@ -9,7 +9,7 @@
 /* VARIABLE DU MODE DE BASE (ici clair) */
 :root {
 color-scheme: light;
---header: url("https://images2.imgbox.com/f8/ac/BiDcd9Q1_o.png");
+--header: url("https://i.im.ge/QMYJI5h/Jour2.png");
 --imgcont: url("https://i.imgur.com/qJXhvjN.png");
 
 
@@ -218,7 +218,7 @@ color-scheme: light;
 /* VARIABLES DU MODE INVERSE (ici sombre) */
 [data-color-scheme="dark"] {
 color-scheme: dark;
---header: url("https://images2.imgbox.com/99/d4/WqLsBhq8_o.png");
+--header: url("https://i.im.ge/QMYJL8M/Nuit2.png");
 --imgcont: url("https://i.imgur.com/zf1JEcV.png");
 
 
