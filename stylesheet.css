@@ -2146,7 +2146,7 @@ margin:0 0 7px 0;}
     text-transform:uppercase;
     margin-right: 7px;
     padding: 5px;
-    font-size: 12px;
+    font-size: 13px;
     overflow: auto;}
 
 
@@ -2294,6 +2294,7 @@ box-sizing: border-box;}
 .qeel_mc {    border: var(--border3);
     border-radius: 7px;
     padding: 5px;
+    font-size:13px;
     width: 100%;}
 
 
