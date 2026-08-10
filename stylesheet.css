@@ -5236,7 +5236,7 @@ padding:5px;
 /* CONTENUS ABC - GHI - MNO - STUV */ 
 .LAB4C p {
 margin:0; min-height:60px; padding:10px; 
-font-size:12px;
+font-size:14px;
 transition:all 0.75s ease-in-out; -webkit-transition:all 0.75s ease-in-out;
 font-family:var(--font);
 border:var(--border14);
@@ -5271,7 +5271,7 @@ font-size:11px !important;
 /* CONTENUS DEF - JKL - PQR - WXYZ */
 .RAB4C p {
 margin:0; min-height:60px; padding:10px; 
-font-size:12px;
+font-size:14px;
 transition:all 0.75s ease-in-out; -webkit-transition:all 0.75s ease-in-out;
 font-family:var(--font);
 border:var(--border14);
