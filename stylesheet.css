@@ -409,7 +409,7 @@ scrollbar-width: thin;
 /* FOND DU FORUM ---*/
 body {
 background: var(--background7);
-font-family: var(--font);
+font-family: var(--font) !important;
 font-size:var(--medium-size);
 color: var(--textColor);
 margin: 0 !important;
