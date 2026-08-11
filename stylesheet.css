@@ -356,7 +356,7 @@ color-scheme: dark;
 --title-size: 22px;
 
 
---font: "Nunito Sans";
+--font: "Arial";
 
 
 /* TIMECAPS */
@@ -1769,7 +1769,6 @@ background:var(--color2);
 
 /* Titre d'une catégorie */
 .cate_title h2 {
-  font-family: var(--font);
   display: block;
   text-align: center;
   text-transform: uppercase;
@@ -1794,7 +1793,6 @@ color:var(--black);
   padding-right:15px;
   padding-left:15px;
   border: var(--border21);
-  font-family: var(--font);
 }
 
 
@@ -1816,7 +1814,6 @@ padding: 1px;
 a.forumtitle {
   font-size:12px;
   text-transform:uppercase;
-  font-family: var(--font);
 background:var(--background24);
   padding-top:2px;
   padding-bottom:2px;
@@ -1886,7 +1883,6 @@ margin-right:-10px;
 border-radius:7px;
 margin-left:5px;
 display: flex;
-font-family: var(--font);
 }
 
 
@@ -1897,7 +1893,6 @@ font-family: var(--font);
     padding-top:1px;
     padding-bottom:1px;
     text-transform: uppercase;
-    font-family: var(--font);
     font-size: 11px;
     font-weight: 800;
     letter-spacing: 1px;
@@ -1953,7 +1948,6 @@ padding-right:5px;
 margin-left:-15px;
 margin-right:5px;
 -webkit-text-size-adjust:100%;
-font-family: var(--font);
 }
 
 
