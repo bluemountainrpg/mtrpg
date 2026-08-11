@@ -149,7 +149,7 @@ color-scheme: light;
 --title-size: 22px;
 
 
---font: "Arial";
+--font: "Nunito Sans";
 
 
 /* TIME CAPS */
@@ -409,7 +409,7 @@ scrollbar-width: thin;
 /* FOND DU FORUM ---*/
 body {
 background: var(--background7);
-font-family: var(--font) !important;
+font-family: var(--font);
 font-size:var(--medium-size);
 color: var(--textColor);
 margin: 0 !important;
@@ -1938,6 +1938,7 @@ padding-right:5px;
 .cattxt{overflow-y:auto;
 overflow-x:none;
 text-align:justify;
+font-family:arial;
 border-radius:7px;
 height:94px;
 font-size:15px;
