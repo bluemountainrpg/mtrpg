@@ -34,7 +34,7 @@ color-scheme: light;
 --neutralDarker2: #FDF5E9;
   
 --color1: #FC641B;
---color2: #899537;
+--color2: #765951;
 --color3: #765951;
 --color4: #A2AF41;
 --color5: #8E9A38;
@@ -104,7 +104,7 @@ color-scheme: light;
 --background22: #FAB86A;
 --background23: #765951;
 --background24: linear-gradient(-45deg,#FAB86A,#FAB86A)!important;
---background25: #FDDED0;
+--background25: #D0F0F0;
 --background26: #F8D9AF;
 --background27: #FFDBCA;
 --background28: #FBEAD3;
@@ -128,7 +128,7 @@ color-scheme: light;
 
 
 --accentClr: #765951;
---accentClrDark: #899537;
+--accentClrDark: #765951;
 --accentClrDark1: linear-gradient(-45deg,#FAB86A,#FAB86A)!important;
 
 
