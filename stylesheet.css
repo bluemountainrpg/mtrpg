@@ -1797,9 +1797,9 @@ color:var(--black);
 }
 
 
-.catitre1{background:var(--background33);border-radius: 5px;padding-left:7px;padding-right:7px;}
+.titrecat1{background:var(--background33);border-radius: 5px;padding-left:7px;padding-right:7px;}
 
-.catitre2{background:var(--background34);border-radius: 5px;padding-left:7px;padding-right:7px;}
+.titrecat2{background:var(--background34);border-radius: 5px;padding-left:7px;padding-right:7px;}
 
 
 /* conteneur d'un forum*/
