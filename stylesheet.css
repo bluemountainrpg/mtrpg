@@ -9,7 +9,7 @@
 /* VARIABLE DU MODE DE BASE (ici clair) */
 :root {
 color-scheme: light;
---header: url("");
+--header: url("https://i.im.ge/QQucJAh/Jour.png");
 --imgcont: url("https://i.imgur.com/qJXhvjN.png");
 
 
@@ -226,7 +226,7 @@ color-scheme: light;
 /* VARIABLES DU MODE INVERSE (ici sombre) */
 [data-color-scheme="dark"] {
 color-scheme: dark;
---header: url("");
+--header: url("https://i.im.ge/QQucva8/Nuit.png");
 --imgcont: url("https://i.imgur.com/zf1JEcV.png");
 
 
