@@ -118,6 +118,7 @@ color-scheme: light;
 --background32: #FAA945;
 --background33: #E2F5F5; 
 --background34: #FEE9CF; 
+--background35: #FDDCB5;
 --quote:#FEF4E0; 
 --degrade: linear-gradient(-45deg,#75D2D6,#EEC12E)!important;
 --degrade1: linear-gradient(-45deg,#EEC12E,#75D2D6)!important;
@@ -350,8 +351,9 @@ color-scheme: dark;
 --background30: #2B2E37;
 --background31: #2C2F3A;
 --background32: #FAA945;
---background33: #; 
---background34: #; 
+--background33: #F9A339; 
+--background34: #46C1C8; 
+--background35: #2C2F3A;
 --quote:#1F232C;
 --degrade: linear-gradient(-45deg,#75D2D6,#EEC12E)!important;
 --degrade1: linear-gradient(-45deg,#EEC12E,#75D2D6)!important;
@@ -6146,9 +6148,9 @@ font-style:italic;}
 
 /* Bouton pour ouvrir la fenetre */
 #FAM-button-open {
-  color: var(--color2);
+  color: var(--color3);
   font-size: 18px;
-  background-color: var(--background15);
+  background-color: var(--background35);
   border-radius: 10px;
   width: 45px;
   height: 45px;
