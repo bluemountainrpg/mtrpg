@@ -180,7 +180,8 @@ color-scheme: light;
     --card3: #FFB236;
     --card4: #E9473C;
     --card5: #6CA94C;
-
+    --card6: #F2CB6C;
+    --card7: #050505;
 
 /*MESSENGER*/
   --FAM-windowSize: 750px;
@@ -5929,20 +5930,20 @@ itime{opacity:.5;font-style:italic;}
 /*ANIM CARTES */
 
 
-.cardanim1, .cardanim2, .cardanim3, .cardanim4, .cardanim5{
+.cardanim1, .cardanim2, .cardanim3, .cardanim4, .cardanim5, .cardOR1, .cardOR2, .cardOR3, .cardOR4, .cardOR5, .cardNOIR1, .cardNOIR2, .cardNOIR3, .cardNOIR4, .cardNOIR5{
 display:inline-block; vertical-align:top; 
 padding-bottom:5px; text-align:center;
 }
 
 
-.cardanim1 div, .cardanim2 div, .cardanim3 div, .cardanim4 div, .cardanim5 div {
+.cardanim1 div, .cardanim2 div, .cardanim3 div, .cardanim4 div, .cardanim5 div, .cardOR1 div, .cardOR2 div, .cardOR3 div, .cardOR4 div, .cardNOIR1 div, .cardNOIR2 div, .cardNOIR3 div, .cardNOIR4 div {
 margin:5px 5px 0; 
 width:93px;padding:5px; overflow:hidden;
 text-align:center; font-size:12px; text-transform:uppercase; line-height:16px;
 }
 
 
-.cardanim1 img, .cardanim2 img, .cardanim3 img, .cardanim4 img, .cardanim5 img{
+.cardanim1 img, .cardanim2 img, .cardanim3 img, .cardanim4 img, .cardanim5 img, .cardOR1 img, .cardOR2 img, .cardOR3 img, .cardOR4 img, .cardNOIR1 img, .cardNOIR2 img, .cardNOIR3 img, .cardNOIR4 img{
 margin:5px auto 0; width:103px;
 padding:5px;
 border-radius:7px;
@@ -5950,7 +5951,7 @@ border-radius:7px;
 
 
 /*zoom img*/
-.cardanim1 img:hover, .cardanim2 img:hover, .cardanim3 img:hover, .cardanim4 img:hover, .cardanim5 img:hover{
+.cardanim1 img:hover, .cardanim2 img:hover, .cardanim3 img:hover, .cardanim4 img:hover, .cardanim5 img:hover, .cardOR1 img:hover, .cardOR2 img:hover, .cardOR3 img:hover, .cardOR4 img:hover, .cardNOIR1 img:hover, .cardNOIR2 img:hover, .cardNOIR3 img:hover, .cardNOIR4 img:hover{
 -ms-transform: scale(2) translate(0px); /* IE 9 */
 -webkit-transform: scale(2) translate(0px); /* Safari 3-8 */
 transform: scale(2) translate(0px);
@@ -5962,6 +5963,10 @@ transform: scale(2) translate(0px);
 .cardanim3 img{background:var(--card3);}
 .cardanim4 img{background:var(--card5);}
 .cardanim5 img{background:var(--card4);}
+.cardOR1 img, .cardOR2 img, .cardOR3 img, .cardOR4 img, .cardOR5 img{
+background:var(--card6);}
+.cardNOIR1 img, .cardNOIR2 img, .cardNOIR3 img, .cardNOIR4 img, .cardNOIR5 img{
+background:var(--card7);}
 
 
 .idorc, .idorc1, .suporc{
