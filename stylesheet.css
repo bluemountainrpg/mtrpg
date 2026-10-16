@@ -2420,8 +2420,7 @@ margin-right:2px;
 .pro_nav {      display: flex;
     font-size: 0;
     margin: 15px 0;
-align-items:center;
-         white-space: nowrap;}
+align-items:center;}
 
 
 /*liens dans navigation*/
@@ -2442,7 +2441,7 @@ align-items:center;
     font-size: 14px;}
 
 
-.pro_nouvrep, .pro_nouvrep1 {       margin: 0 10px 0 0;
+.pro_nouvrep, .pro_nouvrep1 {       margin: 0 10px 0 0;white-space: nowrap;
 }
 .pro_nouvrep a:nth-child(1) {margin:0 10px 0 0;background:var(--accentClr);color:var(--acc3);}
 .pro_nouvrep a:nth-child(1):hover {background: var(--accentClrDark1);color: var(--acc3)!important;}
