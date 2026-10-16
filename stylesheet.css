@@ -2420,7 +2420,8 @@ margin-right:2px;
 .pro_nav {      display: flex;
     font-size: 0;
     margin: 15px 0;
-align-items:center;}
+align-items:center;
+         white-space: nowrap;}
 
 
 /*liens dans navigation*/
