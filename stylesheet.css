@@ -9,8 +9,8 @@
 /* VARIABLE DU MODE DE BASE (ici clair) */
 :root {
 color-scheme: light;
---header: url("https://i.im.ge/QQyXmo6/Headers_rose_vert.png");
---imgcont: url("https://i.im.ge/QQyVa5y/PA.png");
+--header: url("https://i.im.ge/QQykF1G/Jour.png");
+--imgcont: url("https://i.im.ge/QQyk1Ka/PA.png");
 
 
     --fond: #FEE7DA;
@@ -241,8 +241,8 @@ color-scheme: light;
 /* VARIABLES DU MODE INVERSE (ici sombre) */
 [data-color-scheme="dark"] {
 color-scheme: dark;
---header: url("https://i.im.ge/QQucva8/Nuit.png");
---imgcont: url("https://i.im.ge/QQucva8/Nuit.png");
+--header: url("https://i.im.ge/QQykSXJ/Nuit.png");
+--imgcont: url("https://i.im.ge/QQykOwx/Nuit.png");
 
 
 --neutral: #1B1E25;
