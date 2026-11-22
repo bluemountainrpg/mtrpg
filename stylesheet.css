@@ -41,7 +41,7 @@ color-scheme: light;
 --color5: #98BA23;
 --color6: #EA526C; /**couleur lien au survol**/
 --color7: #C68F00;
---color8: #2F8862;
+--color8: #EA526C;
 --color9: #FBB555;
 --color10: #FDEAED;
 --color11: #3DAA7B;
@@ -296,7 +296,7 @@ color-scheme: dark;
 --color5:#98BA23;
 --color6: #98BA23;
 --color7: #EAAA00;
---color8: #2F8862;
+--color8: #EA526C;
 --color9: #FBB555;
 --color10: #98BA23;
 --color11: #3DAA7B;
@@ -8114,4 +8114,3 @@ x-bookmark-list path {
         translate: 1em 0;
     }
 }
-
