@@ -9,8 +9,8 @@
 /* VARIABLE DU MODE DE BASE (ici clair) */
 :root {
 color-scheme: light;
---header: url("https://i.im.ge/QQykF1G/Jour.png");
---imgcont: url("https://i.im.ge/QQyk1Ka/PA.png");
+--header: url("https://i.im.ge/QQyXmo6/Headers_rose_vert.png");
+--imgcont: url("https://i.im.ge/QQyVa5y/PA.png");
 
 
     --fond: #FEE7DA;
@@ -41,13 +41,14 @@ color-scheme: light;
 --color5: #98BA23;
 --color6: #EA526C; /**couleur lien au survol**/
 --color7: #C68F00;
---color8: #000000;
+--color8: #2F8862;
 --color9: #FBB555;
 --color10: #FDEAED;
 --color11: #3DAA7B;
 --color12: #98BA23;
 --color13: #EA526C;
 --color14: #98BA23;
+--color15: #EA526C;
   
 --accc1: #3BA97A;
 --accc2:#3BA97A;
@@ -241,8 +242,8 @@ color-scheme: light;
 /* VARIABLES DU MODE INVERSE (ici sombre) */
 [data-color-scheme="dark"] {
 color-scheme: dark;
---header: url("https://i.im.ge/QQykSXJ/Nuit.png");
---imgcont: url("https://i.im.ge/QQykOwx/Nuit.png");
+--header: url("https://i.im.ge/QQucva8/Nuit.png");
+--imgcont: url("https://i.im.ge/QQucva8/Nuit.png");
 
 
 --neutral: #1B1E25;
@@ -295,13 +296,14 @@ color-scheme: dark;
 --color5:#98BA23;
 --color6: #98BA23;
 --color7: #EAAA00;
---color8: #000000;
+--color8: #2F8862;
 --color9: #FBB555;
 --color10: #98BA23;
 --color11: #3DAA7B;
 --color12: #98BA23;
 --color13: #EA526C;
 --color14: #98BA23;
+--color15: #3BA97A;
   
 --accc1: #98BA23;
 --accc2:#76CFA7;
@@ -2625,7 +2627,7 @@ color:var(--acc3);}
     margin: 0 0 4px;}
 
 
-a.topictitle {   color: var(--color2);
+a.topictitle {   color: var(--color15);
     font-weight: 600;
     font-size: 16px;
     text-transform: lowercase;
