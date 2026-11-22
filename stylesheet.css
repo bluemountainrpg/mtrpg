@@ -2927,7 +2927,11 @@ font-size:var(--normal-size);}
 
 
 .profilsuj a:hover, .editsuj a:hover, .ipsuj a:hover,.mpsuj a:hover, .quotesuj a:hover, .deletesuj a:hover {
-background: var(--accentClrDark1); transition: .5s ease;}
+transition: .5s ease;
+  text-decoration-line: underline;
+  text-decoration-style: solid;
+  text-decoration-color:var(--neutralDarker);
+  text-decoration-thickness: 3px;}
 
 
 /* BOUTON LIKE --- */
@@ -3023,7 +3027,11 @@ margin-right: 6px;font-size:var(--normal-size);
 }
 
 a.fa-mention:hover{
-background: var(--accentClrDark1); transition: .5s ease;}
+transition: .5s ease;
+  text-decoration-line: underline;
+  text-decoration-style: solid;
+  text-decoration-color:var(--neutralDarker);
+  text-decoration-thickness: 3px;}
 
 
 
