@@ -7777,12 +7777,11 @@ button[onglet].active {
   overflow: hidden;
   margin: 0 auto;
   border-radius: 25px;
-  background-color: #ececec;
-  background-image: linear-gradient(0deg,rgb(201, 201, 201) 0%, rgba(255, 255, 255, 0) 100%);
+  background-color: var(--neutral);
   background-size: 100% 10%;
   background-repeat: no-repeat;
   background-position-y: bottom;
-  color: #3a3a3a;
+
   font-family: "Open Sans";
 }
 
@@ -7822,7 +7821,6 @@ button[onglet].active {
   height: 40px;
   background: #FF6C5A;
   background: linear-gradient(45deg,rgba(254, 70, 109, 1) 0%, rgba(255, 108, 90, 1) 100%);
-  color: white;
   border-radius: 20px;
   text-align: center;
   padding: 8px 0;
@@ -7837,7 +7835,7 @@ button[onglet].active {
   padding: 10px 20px;
   font-size: 13px;
   div {
-  color: #6c6c6c;
+ 
   margin: 10px 0 20px 0;
   }
 }
@@ -7846,11 +7844,9 @@ button[onglet].active {
 .name_DA {
   font-size: 25px;
   font-weight: bold;
-  color: #3a3a3a;
 }
 
 .age_DA {
-  color: #3a3a3a;
   font-weight: lighter;
   font-size: 21px;
   padding: 0 0 0 5px;
@@ -7872,7 +7868,7 @@ button[onglet].active {
 
 /* === Modele de boite (titre) */
 .title_DA {
-  color: #3a3a3a;
+
   font-weight: 600;
   font-size: 16px;
   line-height: 2;
@@ -7887,7 +7883,7 @@ button[onglet].active {
   display: inline-block;
 
   .material-symbols-outlined {
-  color: #3a3a3a;
+
   margin: 0 5px 0 -3px;
   font-size: 20px;
     line-height: 15px;
