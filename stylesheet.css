@@ -197,7 +197,6 @@ color-scheme: light;
     --card5: #6CA94C;
     --card6: #F2CB6C;
     --card7: #050505;
-    --card8: #484848;
 
 
 /*MESSENGER*/
@@ -425,6 +424,8 @@ color-scheme: dark;
     --bg4: #202020;
     --bg5: #0e0e0e;
     --transp2: rgb(50 50 50 / 50%);
+
+    
 
 
 /*MESSENGER*/
@@ -6069,7 +6070,11 @@ border-radius:7px;
 -ms-transform: scale(2) translate(0px); /* IE 9 */
 -webkit-transform: scale(2) translate(0px); /* Safari 3-8 */
 transform: scale(2) translate(0px);
-@@ -5962,6 +5963,10 @@ transform: scale(2) translate(0px);
+}
+
+
+.cardanim1 img{background:var(--card1);}
+.cardanim2 img{background:var(--card2);}
 .cardanim3 img{background:var(--card3);}
 .cardanim4 img{background:var(--card5);}
 .cardanim5 img{background:var(--card4);}
