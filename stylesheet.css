@@ -676,11 +676,13 @@ max-width:80px;
 /* Utilisé pour des titres de pages */
 h1,
 h1.page-title {
-color: var(--color8);
-font-size: var(--large-size);
-font-weight: 700;
-text-transform: uppercase;
-text-align: center;
+  text-align: center;
+  text-transform: uppercase;
+font-family:"Playfair Display";
+  font-size: 24px;
+  font-weight: 700;
+-webkit-text-size-adjust:100%;
+color:var(--black);
 }
 
 
@@ -1832,8 +1834,6 @@ background:var(--background29);
 font-family:"Playfair Display";
   font-size: 24px;
   font-weight: 700;
-padding-top:3px;
-padding-bottom:6px;
 -webkit-text-size-adjust:100%;
 color:var(--black);
 }
