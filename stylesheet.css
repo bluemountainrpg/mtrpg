@@ -677,12 +677,12 @@ max-width:80px;
 h1,
 h1.page-title {
 color: var(--color8);
-font-size: var(--large-size);
+font-family:"Playfair Display";
+font-size: 24px;
 font-weight: 700;
 text-transform: uppercase;
 text-align: center;
 }
-
 
 /* Utilisé pour des titres de sujets, blogs... */
 h2,
