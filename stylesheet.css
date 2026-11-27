@@ -676,7 +676,7 @@ max-width:80px;
 /* Utilisé pour des titres de pages */
 h1,
 h1.page-title {
-color: var(--color8);
+color: var(--black);
 font-family:"Playfair Display";
 font-size: 24px;
 font-weight: 700;
