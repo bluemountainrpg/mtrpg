@@ -41,7 +41,7 @@ color-scheme: light;
 --color5: #98BA23;
 --color6: #EA526C; /**couleur lien au survol**/
 --color7: #C68F00;
---color8: #000;
+--: #000;
 --color9: #FBB555;
 --color10: #FDEAED;
 --color11: #3DAA7B;
@@ -298,7 +298,7 @@ color-scheme: dark;
 --color5:#98BA23;
 --color6: #98BA23;
 --color7: #EAAA00;
---color8: #EA526C;
+--color8: #2C7C5A;
 --color9: #FBB555;
 --color10: #98BA23;
 --color11: #3DAA7B;
