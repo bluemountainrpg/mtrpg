@@ -41,7 +41,7 @@ color-scheme: light;
 --color5: #98BA23;
 --color6: #EA526C; /**couleur lien au survol**/
 --color7: #C68F00;
---color8: #EA526C;
+--color8: #000;
 --color9: #FBB555;
 --color10: #FDEAED;
 --color11: #3DAA7B;
@@ -55,8 +55,8 @@ color-scheme: light;
 --accc3:#3BA97A;
 --white: #fff;
 --white1: #fff;
---black: #000;
---black1: #000;
+: #000;
+1: #000;
 --grey: #787878;
 --background: #EAEAEA;
 --acc1: #3BA97A;
@@ -312,8 +312,8 @@ color-scheme: dark;
 --accc3:#98BA23;
 --white: #FFFDF9;
 --white1: #262B35;
---black: #000;
---black1: #FFFDF9;
+: #000;
+1: #FFFDF9;
 --grey: #787878;
 --background: #424659;
 --acc1: #76CFA7;
@@ -676,7 +676,7 @@ max-width:80px;
 /* Utilisé pour des titres de pages */
 h1,
 h1.page-title {
-color: var(--black);
+color: var(--color8);
 font-family:"Playfair Display";
 font-size: 24px;
 font-weight: 700;
