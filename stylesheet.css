@@ -1815,10 +1815,10 @@ overflow:auto;}
 
 
 .category:nth-child(odd) {
-background:var(--background29);
+background:var(--background29);color:#ff0000;
 }
 
-.category:nth-child(even) {background:var(--background37);}
+.category:nth-child(even) {background:var(--background37);color:#ff0000;}
 
 
 /* Titre d'une catégorie */
